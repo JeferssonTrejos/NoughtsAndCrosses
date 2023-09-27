@@ -5,8 +5,8 @@ Made by
 
 -> Merlyn Nicole Rajo Rayes
 
--> Vilma Jaqueline Hernandez Argueta
+-> Vilma Yaqueline Hernandez Argueta
 
--> Jefferson Bladmir Trejos Lovo
+-> Jefersson Bladmir Trejos Lovo
 
 -> Dalia Melissa Araujo Rivas
