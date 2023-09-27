@@ -1,3 +1,4 @@
+
 //BOTONES
 const botonMostrar = document.getElementById("mostrarMenu");
 const botonCerrar = document.getElementById("cerrar");

@@ -1,9 +1,10 @@
 body{
+    color: white;
     margin: 0;
     background-color: gray;
     background-image: url('/src/E8jj.gif');
     background-size: 30%;
-    color: white;
+    
 }
 
 main{
