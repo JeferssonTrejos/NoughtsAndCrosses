@@ -83,7 +83,7 @@ section{
     margin: auto 0;
 }
 .player-box{
-    background-color: #534f9ca5 ;
+    background-color: #3a396b ;
     width: 70%;
     height: 10%;
     border-radius: 1.2dvh;
@@ -110,6 +110,8 @@ section{
 .frame{
     width: 100%;
     border: 1px solid black;
+    /* Transparencia en 0 */
+    background-color: rgba(255, 255, 255, 0);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -128,7 +130,7 @@ section{
 }
 
 .player-stats{
-    background-color: #534f9ca5;
+    background-color: #3a396b;
     width: 100%;
     height: 10%;
     border-radius: 1.2dvh;
@@ -168,12 +170,12 @@ section{
 }
 
 .match-stats .p-1{
-    background-color: #6661c880;
+    background-color: #53509e;
     border-radius: 1dvh 0 0 1dvh;
 }
 
 .match-stats .p-2{
-    background-color: #31305a60;
+    background-color: #3a396b;
     border-radius: 0 1dvh 1dvh 0;
 }
 
@@ -190,7 +192,7 @@ section{
 
 /* styles.css */
 .menu {
-
+    z-index: 1;
     display: none;
     position: fixed;
     top: 0;

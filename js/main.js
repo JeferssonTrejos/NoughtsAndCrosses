@@ -28,8 +28,8 @@ const playerTurn = document.getElementById("siguiente");
 const player_1 = document.getElementById("player-1");
 const player_2 = document.getElementById("player-2");
 
-let lightPurple = '#534f9c';
-let darkPurple = '#534f9ca5';
+let lightPurple = '#53509e';
+let darkPurple = '#3a396b';
 
 playerTurn.addEventListener('click',playerTurns)
 
@@ -54,6 +54,6 @@ function playerTurns(){
 const log = document.getElementById('game-log');
 function addtexttest(){
     log.insertAdjacentHTML('beforeend',`
-    <h6>- Turno de KKKK</h6>
+    <h6>- Turno de Player</h6>
     `)
 }
