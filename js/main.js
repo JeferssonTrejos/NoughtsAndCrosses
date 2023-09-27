@@ -23,7 +23,7 @@ botonCerrar.addEventListener("click", function () {
 
 
 
-//Cambia de color y tamaño los cuadros de los nombres(Es de prueba)
+//Cambia de color y tamaño los cuadros de los nombres(((Es de prueba)))
 const playerTurn = document.getElementById("siguiente");
 const player_1 = document.getElementById("player-1");
 const player_2 = document.getElementById("player-2");
@@ -50,8 +50,7 @@ function playerTurns(){
     }
 };
 
-//Agrega texto al log(Es de prueba)
-
+//Agrega texto al log (((Es de prueba)))
 const log = document.getElementById('game-log');
 function addtexttest(){
     log.insertAdjacentHTML('beforeend',`
